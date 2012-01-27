@@ -56,9 +56,9 @@
 	<string name="dialog_title_acquiring_an_access_token">Acquiring an Access token</string>
 	<string name="dialog_title_acquiring_a_request_token">Acquiring a request token</string>
 	<string name="dialog_title_authentication_failed">Authentication Failed</string>
-	<string name="dialog_title_checking_credentials">Verifying...</string>
+	<string name="dialog_title_checking_credentials">Verifying&#8230;</string>
 	<string name="dialog_title_connection_timeout">Connection Timed Out</string>
-	<string name="dialog_title_executing_command">Executing command...</string>
+	<string name="dialog_title_executing_command">Executing command&#8230;</string>
 	<string name="dialog_title_external_storage">External Storage Available</string>
 	<string name="dialog_title_external_storage_missing">External Storage Missing</string>
 	<string name="dialog_title_preference_frequency">Update Frequency</string>
@@ -68,9 +68,9 @@
 	<string name="dialog_title_preference_password">Password</string>
 	<string name="dialog_title_preference_theme">Select a Theme</string>
 	<string name="dialog_title_preference_username">Username</string>
-	<string name="dialog_title_sending_message">Sending message...</string>
+	<string name="dialog_title_sending_message">Sending message&#8230;</string>
 	<string name="dialog_title_service_unavailable">Service Unavailable</string>
-	<string name="dialog_title_timeline_loading">Updating Timeline...</string>
+	<string name="dialog_title_timeline_loading">Updating Timeline&#8230;</string>
 	<string name="error_twitter_404">The page cannot be found. Please report this error!</string>
 	<string name="error_connection_error">A connection error has occurred. Please report this error!</string>
 	<string name="error_set_username">Couldn\'t set the Username to: </string>
@@ -78,7 +78,7 @@
 	<string name="favorite_created">Favorite created.</string>
 	<string name="favorite_destroyed">Tweet unfavorited.</string>
 	<string name="http_dateformat">EEE, dd MMM yyyy HH:mm:ss zzz</string>
-	<string name="loading">Loading...</string>
+	<string name="loading">Loading&#8230;</string>
 	<string name="message_edit_hint">Enter your tweet here!</string>
 	<string name="message_characters_left">Characters left:</string>
 	<string name="menu_item_block">Block</string>

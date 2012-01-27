@@ -86,6 +86,21 @@
 		<item>"каждые 12 часов"</item>
 		<item>"раз в сутки"</item>
 	</string-array>
+    <string-array name="log_level_values">
+        <item>INFO</item>
+        <item>DEBUG</item>
+        <item>VERBOSE</item>
+    </string-array>
+    <string-array name="log_level_keys">
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="log_level_display">
+        <item>INFO</item>
+        <item>DEBUG</item>
+        <item>VERBOSE</item>
+    </string-array>
 	<string-array name="theme_values">
 		<item>"Большая"</item>
 		<item>"Средняя"</item>
