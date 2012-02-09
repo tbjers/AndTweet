@@ -1,0 +1,5 @@
+local.properties
+gen/*
+src/com/xorcode/andtweet/net/MyKeys.java
+src/com/xorcode/andtweet/net/MyOAuthKeys.java
+tests/local.properties
